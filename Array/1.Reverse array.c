@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-
-
 int main(){
      int array[10] = {0};
 
